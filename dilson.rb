@@ -1,3 +1,3 @@
-x = 'olá'
+x = 'oláaa'
 
 puts x
