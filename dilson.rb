@@ -1,0 +1,3 @@
+x = 'oláaaaa'
+
+puts x
